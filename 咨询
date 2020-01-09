@@ -1,0 +1,7 @@
+下载飞机大战程序后，运行的时候会随机出现：Fatal Python error: take_gil: NULL tstate
+
+我是小白，不知道能不能给我一些帮助：
+
+我的环境：
+deepin15.11系统
+python3.5
